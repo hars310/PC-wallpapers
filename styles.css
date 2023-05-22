@@ -44,7 +44,7 @@ main {
 }
 
 .image-container {
-  max-height: 500px; 
+  max-height: auto; 
   overflow-y: auto;
   position: relative;
 } 
